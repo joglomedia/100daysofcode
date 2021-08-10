@@ -14,7 +14,7 @@ Monorepo for my #100DaysOfCode challenge. This repository contains the code for 
 
 I will spend 7 days a week and 1-4 hours a day for this challenge. I have developed a roadmap (plan of action) on how to achieve my goals and also I have listed the resources I need.
 
-### Phase 1: Front End Basic (HTML, CSS, and JavaScript)
+### Phase 1: Front End Web Dev Basic (HTML, CSS, and JavaScript)
 
 The first phase split into 4 weeks starting from August 9, 2021 to September 5, 2021. Each week I will focus on a specific topic on front end stack including HTML, CSS, and JavaScript.
 
@@ -34,6 +34,6 @@ The first phase split into 4 weeks starting from August 9, 2021 to September 5, 
 * [Learn JavaScript on freeCodeCamp](https://www.freecodecamp.org/learn/learn-javascript)
 * [HTML, CSS, and Javascript for Web Developers on Coursera](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
-### Phase 2: Front End Advanced (Framework)
+### Phase 2: Front End Web Dev Advanced (Framework)
 
 Will be developed in the second phase.
