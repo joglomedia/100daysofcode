@@ -33,6 +33,7 @@ The first phase split into 4 weeks starting from August 9, 2021 to September 5, 
 * [Learn Responsive Web Design on freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design)
 * [Learn JavaScript on freeCodeCamp](https://www.freecodecamp.org/learn/learn-javascript)
 * [HTML, CSS, and Javascript for Web Developers on Coursera](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+* [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
 
 ### Phase 2: Front End Web Dev Advanced (Framework)
 
